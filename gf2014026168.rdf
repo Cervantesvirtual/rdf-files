@@ -1,0 +1,188 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026168" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Reviews</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:GenreFormElement>
+	<madsrdf:elementValue xml:lang="en">Reviews</madsrdf:elementValue>
+      </madsrdf:GenreFormElement>
+    </madsrdf:elementList>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026113">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Informational works</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Informational works</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/genreForms/collection_LCGFT_General"/>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026052">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Book reviews</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Book reviews</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026129">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Motion picture reviews</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Motion picture reviews</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026079">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Dance reviews</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Dance reviews</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026190">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Television program reviews</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Television program reviews</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026194">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Theater reviews</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Theater reviews</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026130">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Music reviews</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Music reviews</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/genreForms"/>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Critical reviews</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Critical reviews</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Critiques</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Critiques</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">gf2014026168</identifiers:lccn>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Art &amp; architecture thesaurus online, July 26, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(reviews (document genre). Periodicals, reports, or essays giving critical estimates and appraisals of art, a performance, or event. For other critical descriptions and analyses, prefer "criticism.")</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Reitz, J.M. ODLIS : online dictionary for library and information science, July 26, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(review: An evaluative account of a recent artistic performance or exhibit, or of a newly published literary or scholarly work, usually written and signed by a qualified person, for publication in a current newspaper, magazine, or journal. The account can be descriptive, reportorial, comparative, or critical or serve as a vehicle for a lengthy essay in which the reviewer discusses several recently published works (omnibus review) or a broader topic for which the works reviewed serve as a springboard. Synonymous with critique.)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Görlach, M. An alphabetical list of English text types, in Text types and the history of English, c2004:</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">p. 72 (review: account or criticism of a new book etc.; periodical)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Reviews</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Critical reviews</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Critiques</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:broader xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026113">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Informational works</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Informational works</rdfs:label>
+      </rdf:Description>
+    </skos:broader>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026052">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Book reviews</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Book reviews</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026129">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Motion picture reviews</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Motion picture reviews</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026079">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Dance reviews</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Dance reviews</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026190">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Television program reviews</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Television program reviews</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026194">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Theater reviews</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Theater reviews</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026130">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Music reviews</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Music reviews</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/genreForms" xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Critical reviews</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Critiques</skos:altLabel>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026168"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:GenreForm>
+</rdf:RDF>

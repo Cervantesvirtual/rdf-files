@@ -1,0 +1,309 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026141" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Personal correspondence</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:GenreFormElement>
+	<madsrdf:elementValue xml:lang="en">Personal correspondence</madsrdf:elementValue>
+      </madsrdf:GenreFormElement>
+    </madsrdf:elementList>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/genreForms"/>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/genreForms/collection_LCGFT_General"/>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Correspondence, Personal</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Correspondence, Personal</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Correspondence, Private</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Correspondence, Private</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Email, Personal</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Email, Personal</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Email, Private</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Email, Private</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Letters, Personal</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Letters, Personal</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Mail, Personal</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Mail, Personal</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Personal email</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Personal email</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Personal letters</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Personal letters</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Personal mail</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Personal mail</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Private correspondence</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Private correspondence</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Private email</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Private email</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Discursive works</madsrdf:authoritativeLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Discursive works</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Records (Documents)</madsrdf:authoritativeLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Records (Documents)</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Genre terms : a thesaurus for use in rare book and special collections cataloging, via WWW, July 28, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(Correspondence Use Letters)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Art &amp; architecture thesaurus online, July 28, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(personal correspondence. UF private correspondence. BT correspondence)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Reitz, J.M. ODLIS : online dictionary for library and information science, July 28, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(correspondence: Letters, memoranda, notes, postcards, e-mail, and other written and addressed messages exchanged between two or more people, usually archived with the personal papers of the correspondents. Often used in preparing biographical and historical works, correspondence may be published separately or with other papers)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Thesaurus for graphic materials, via WWW, July 28, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(Correspondence. UF Letters; Mail. BT Communication. NT Email; Hate mail; Letters to Santa; Love letters; Telegrams; V-mail)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">gf2014026141</identifiers:lccn>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-28T13:11:41</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Personal correspondence</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Correspondence, Personal</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Correspondence, Private</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Email, Personal</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Email, Private</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Letters, Personal</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Mail, Personal</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Personal email</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Personal letters</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Personal mail</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Private correspondence</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Private email</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:broader xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Discursive works</skos:prefLabel>
+      </rdf:Description>
+    </skos:broader>
+    <skos:broader xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Records (Documents)</skos:prefLabel>
+      </rdf:Description>
+    </skos:broader>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/genreForms" xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Correspondence, Personal</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Correspondence, Private</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Email, Personal</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Email, Private</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Letters, Personal</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Mail, Personal</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Personal email</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Personal letters</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Personal mail</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Private correspondence</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Private email</skos:altLabel>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026141"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026141"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-10-28T13:11:41</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:GenreForm>
+</rdf:RDF>

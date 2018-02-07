@@ -1,0 +1,107 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026174" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Serial publications</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:GenreFormElement>
+	<madsrdf:elementValue xml:lang="en">Serial publications</madsrdf:elementValue>
+      </madsrdf:GenreFormElement>
+    </madsrdf:elementList>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/genreForms"/>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/genreForms/collection_LCGFT_General"/>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Serials (Publications)</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Serials (Publications)</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Informational works</madsrdf:authoritativeLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Informational works</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>RDA glossary, viewed July 30, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(Serial: A resource issued in successive parts, usually having numbering, that has no predetermined conclusion (e.g., a periodical, a monographic series, a newspaper). Includes resources that exhibit characteristics of serials, such as successive issues, numbering, and frequency, but whose duration is limited (e.g., newsletters of events) and reproductions of serials.)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>LCSH</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(Serial publications. UF Publications, Serial; Serials (Publications). BT Continuing resources (Publications))</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Görlach, M. An alphabetical list of English text types, in Text types and the history of English, c2004:</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">p. 75 (serial 1 serial or periodical publication, 1b radio or TV programme broadcast in episodes)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:note>Resources issued in successive parts, generally with no predetermined conclusion, usually bearing numerical and/or chronological designations.</madsrdf:note>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">gf2014026174</identifiers:lccn>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-07T16:40:04</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Serial publications</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Serials (Publications)</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:broader xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Informational works</skos:prefLabel>
+      </rdf:Description>
+    </skos:broader>
+    <skos:note xmlns:skos="http://www.w3.org/2004/02/skos/core#">Resources issued in successive parts, generally with no predetermined conclusion, usually bearing numerical and/or chronological designations.</skos:note>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/genreForms" xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Serials (Publications)</skos:altLabel>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026174"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026174"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-07T16:40:04</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:GenreForm>
+</rdf:RDF>

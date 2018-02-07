@@ -1,0 +1,179 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026099" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Facsimiles</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:GenreFormElement>
+	<madsrdf:elementValue xml:lang="en">Facsimiles</madsrdf:elementValue>
+      </madsrdf:GenreFormElement>
+    </madsrdf:elementList>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/genreForms"/>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/genreForms/collection_LCGFT_General"/>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Facsimile copies</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Facsimile copies</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Facsimile editions</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Facsimile editions</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Photocopies</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Photocopies</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Replicas</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Replicas</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Reproductions</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Reproductions</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Xerocopies</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Xerocopies</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Derivative works</madsrdf:authoritativeLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Derivative works</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>RDA glossary, viewed July 30, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(Facsimile. 1) A reproduction simulating the physical appearance of the original in addition to reproducing its content exactly. 2) An illustrative content consisting of an exact copy of an original, usually in the same dimensions as the original, especially of books, documents, prints, and drawings. Today often reproduced photographically or digitally; in the past, reproduced by engraving or other printmaking process.)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Reitz, J.M. ODLIS : online dictionary for library and information science, Aug. 18, 2014</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(facsimile: A reproduction or copy intended to simulate as closely as possible the physical appearance of a previous work, but not intended as a forgery. A facsimile of a handwritten or printed document is an exact replica of the original text, without reduction or enlargement. A facsimile edition duplicates as closely as possible the appearance and content of the original edition.)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Görlach, M. An alphabetical list of English text types, in Text types and the history of English, c2004:</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">p. 44 (facsimile (edition): exact copy, reproduction) p. 88 (xerocopy: photocopy)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">gf2014026099</identifiers:lccn>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Facsimiles</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Facsimile copies</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Facsimile editions</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Photocopies</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Replicas</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Reproductions</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Xerocopies</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:broader xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Derivative works</skos:prefLabel>
+      </rdf:Description>
+    </skos:broader>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/genreForms" xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Facsimile copies</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Facsimile editions</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Photocopies</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Replicas</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Reproductions</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Xerocopies</skos:altLabel>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026099"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/ilchalcs"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:GenreForm>
+</rdf:RDF>

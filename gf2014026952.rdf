@@ -1,0 +1,297 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026952" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Music</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:GenreFormElement>
+	<madsrdf:elementValue xml:lang="en">Music</madsrdf:elementValue>
+      </madsrdf:GenreFormElement>
+    </madsrdf:elementList>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/genreForms/collection_LCGFT_General"/>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026707">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Chants</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Chants</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026775">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Dramatic music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Dramatic music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027062">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Sacred music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Sacred music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027184">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Notated music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Notated music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026821">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Functional music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Functional music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027009">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Popular music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Popular music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026932">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Medleys (Music)</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Medleys (Music)</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026809">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Folk music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Folk music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027207">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Teaching pieces (Music)</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Teaching pieces (Music)</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027103">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Songs</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Songs</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026639">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Art music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Art music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026869">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Humorous music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Humorous music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026617">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Accompaniments (Music)</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Accompaniments (Music)</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026836">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Glitch music</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Glitch music</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027203">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Arrangements (Music)</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Arrangements (Music)</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/genreForms"/>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Musical compositions</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Musical compositions</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:GenreForm>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Musical works</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:GenreFormElement>
+	    <madsrdf:elementValue xml:lang="en">Musical works</madsrdf:elementValue>
+	  </madsrdf:GenreFormElement>
+	</madsrdf:elementList>
+      </madsrdf:GenreForm>
+    </madsrdf:hasVariant>
+    <madsrdf:note>Music from any tradition that is not of a more specific genre/form.</madsrdf:note>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">gf2014026952</identifiers:lccn>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/castsmf"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-14T10:29:13</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/castsmf"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Music</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Musical compositions</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Musical works</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026707">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Chants</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Chants</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026775">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Dramatic music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Dramatic music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027062">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Sacred music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Sacred music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027184">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Notated music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Notated music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026821">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Functional music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Functional music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027009">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Popular music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Popular music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026932">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Medleys (Music)</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Medleys (Music)</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026809">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Folk music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Folk music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027207">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Teaching pieces (Music)</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Teaching pieces (Music)</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027103">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Songs</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Songs</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026639">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Art music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Art music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026869">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Humorous music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Humorous music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026617">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Accompaniments (Music)</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Accompaniments (Music)</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026836">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Glitch music</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Glitch music</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014027203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Arrangements (Music)</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Arrangements (Music)</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:note xmlns:skos="http://www.w3.org/2004/02/skos/core#">Music from any tradition that is not of a more specific genre/form.</skos:note>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/genreForms" xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Musical compositions</skos:altLabel>
+    <skos:altLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Musical works</skos:altLabel>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026952"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/castsmf"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-10T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2014026952"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/castsmf"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-14T10:29:13</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:GenreForm>
+</rdf:RDF>

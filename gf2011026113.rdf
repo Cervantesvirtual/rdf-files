@@ -1,0 +1,253 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026113" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Cartographic materials</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:GenreFormElement>
+	<madsrdf:elementValue xml:lang="en">Cartographic materials</madsrdf:elementValue>
+      </madsrdf:GenreFormElement>
+    </madsrdf:elementList>
+    <madsrdf:useFor>
+      <madsrdf:DeprecatedAuthority rdf:about="http://id.loc.gov/authorities/subjects/sh2009025006">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<rdfs:label xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">sh2009025006</rdfs:label>
+      </madsrdf:DeprecatedAuthority>
+    </madsrdf:useFor>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/genreForms/collection_LCGFT_General"/>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026525">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Relief models</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Relief models</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026744">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Worm's-eye views</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Worm's-eye views</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2013025048">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Ephemerides</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Ephemerides</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026295">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Geological cross-sections</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Geological cross-sections</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026056">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Astronomical models</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Astronomical models</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2015026018">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Cartographic materials for people with visual disabilities</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Cartographic materials for people with visual disabilities</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026300">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Globes</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Globes</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026530">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Remote-sensing images</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Remote-sensing images</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026387">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Maps</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Maps</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026294">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Geographic information systems</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Geographic information systems</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026032">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Aerial photographs</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Aerial photographs</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026033">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Aerial views</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Aerial views</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026811">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Gazetteers</madsrdf:authoritativeLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Gazetteers</rdfs:label>
+      </madsrdf:GenreForm>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/genreForms"/>
+    <madsrdf:note>Collections of cartographic materials that are composed of multiple genres and/or forms to which more specific headings such as [Pictorial maps] or [Globes] cannot be applied.</madsrdf:note>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">gf2011026113</identifiers:lccn>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Anglo-American cataloguing rules, 2002:</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">(cartographic materials: all materials that represent the whole or part of the Earth or any celestial body; includes two- and three-dimensional maps and plans (including maps of imaginary places); aeronautical, nautical, and celestial charts; atlases, globes; block diagrams; sections; aerial photographs with a cartographic purpose; birds-eye views (map views); etc.)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citation-source>Glossary of the mapping sciences, 1994:</madsrdf:citation-source>
+	<madsrdf:citation-note xml:lang="en">cartographic (associated with cartography; having to do with mapping in the general sense)</madsrdf:citation-note>
+	<madsrdf:citation-status>found</madsrdf:citation-status>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-05-05T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-02T11:28:33</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en" xmlns:skos="http://www.w3.org/2004/02/skos/core#">Cartographic materials</skos:prefLabel>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026525">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Relief models</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Relief models</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026744">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Worm's-eye views</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Worm's-eye views</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2013025048">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Ephemerides</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Ephemerides</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026295">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Geological cross-sections</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Geological cross-sections</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026056">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Astronomical models</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Astronomical models</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2015026018">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Cartographic materials for people with visual disabilities</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Cartographic materials for people with visual disabilities</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026300">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Globes</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Globes</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026530">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Remote-sensing images</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Remote-sensing images</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026387">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Maps</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Maps</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026294">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Geographic information systems</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Geographic information systems</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026032">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Aerial photographs</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Aerial photographs</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026033">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Aerial views</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Aerial views</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026811">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Gazetteers</skos:prefLabel>
+	<rdfs:label xml:lang="en" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">Gazetteers</rdfs:label>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:note xmlns:skos="http://www.w3.org/2004/02/skos/core#">Collections of cartographic materials that are composed of multiple genres and/or forms to which more specific headings such as [Pictorial maps] or [Globes] cannot be applied.</skos:note>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/genreForms" xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2011026113"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-05-05T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/genreForms/gf2011026113"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-02T11:28:33</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:GenreForm>
+</rdf:RDF>
