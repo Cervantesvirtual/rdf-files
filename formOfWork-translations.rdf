@@ -5,54 +5,67 @@
 	 xmlns:sesame="http://www.openrdf.org/schema/sesame#"
 	 xmlns:owl="http://www.w3.org/2002/07/owl#"
 	 xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-	 xmlns:fn="http://www.w3.org/2005/xpath-functions#">
+	 xmlns:fn="http://www.w3.org/2005/xpath-functions#"
+         xmlns:dcterms="http://purl.org/dc/terms/">
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026113">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Materiales cartográficos</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Materiales cartográficos</dcterms:type>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026337">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Vídeos de Internet</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Vídeos de Internet</dcterms:type>
 </rdf:Description>
 
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026594">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Grabaciones sonoras</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Grabaciones sonoras</dcterms:type>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026725">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Vídeo signado</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Vídeo signado</dcterms:type>
 </rdf:Description>
 
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026039">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Tesis</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Tesis</dcterms:type>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026099">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Facsímiles</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Facsímiles</dcterms:type>
 </rdf:Description>
 
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026141">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Correspondencia personal</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Correspondencia personal</dcterms:type>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026168">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Estudios críticos</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Estudios críticos</dcterms:type>
 </rdf:Description>
 
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026174">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Publicaciones periódicas</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Publicaciones periódicas</dcterms:type>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026191">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Libros de texto</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Libros de texto</dcterms:type>
 </rdf:Description>
 
 <rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026952">
 <skos:altLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Música</skos:altLabel>
+<dcterms:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string" xml:lang="es">Música</dcterms:type>
 </rdf:Description>
 
 </rdf:RDF>
+
 
